@@ -15,18 +15,55 @@ Outside of industry, I have served as Engineering Mentorship Director for AIAA a
 <div style="clear: both;"></div>
 <br>
 
-## Skills
+<hr style="border: 1px solid #555; margin-top: 30px; margin-bottom: 30px;">
 
 ## Skills
 
-| CAD & Mechanical | Analysis | Programming & DAQ |
-| :--- | :--- | :--- |
-| <img src="solidworks.png" height="35"> **SolidWorks** | <img src="ansys.png" height="35"> **Ansys** | <img src="python.png" height="35"> **Python** |
-| <img src="nx.png" height="35"> **Siemens NX** | <img src="matlab.png" height="35"> **MATLAB** | <img src="sql.png" height="35"> **SQL** |
-| | <img src="simulink.png" height="35"> **Simulink** | <img src="labview.png" height="35"> **LabVIEW** |
+### CAD & Mechanical Design
+<div style="display: flex; gap: 35px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 25px; margin-top: 15px;">
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 8px;">
+    <img src="solidworks.png" alt="SolidWorks" style="height: 50px; width: 50px; object-fit: contain;">
+    <span style="font-size: 14px; color: #ccc;">SolidWorks</span>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 8px;">
+    <img src="nx.png" alt="Siemens NX" style="height: 50px; width: 50px; object-fit: contain;">
+    <span style="font-size: 14px; color: #ccc;">Siemens NX</span>
+  </div>
+</div>
+
+### Engineering Analysis
+<div style="display: flex; gap: 35px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 25px;">
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 8px;">
+    <img src="ansys.png" alt="Ansys" style="height: 50px; width: 50px; object-fit: contain;">
+    <span style="font-size: 14px; color: #ccc;">Ansys</span>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 8px;">
+    <img src="matlab.png" alt="MATLAB" style="height: 50px; width: 50px; object-fit: contain;">
+    <span style="font-size: 14px; color: #ccc;">MATLAB</span>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 8px;">
+    <img src="simulink.png" alt="Simulink" style="height: 50px; width: 50px; object-fit: contain;">
+    <span style="font-size: 14px; color: #ccc;">Simulink</span>
+  </div>
+</div>
+
+### Programming & Data Acquisition
+<div style="display: flex; gap: 35px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 20px;">
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 8px;">
+    <img src="python.png" alt="Python" style="height: 50px; width: 50px; object-fit: contain;">
+    <span style="font-size: 14px; color: #ccc;">Python</span>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 8px;">
+    <img src="sql.png" alt="SQL" style="height: 50px; width: 50px; object-fit: contain;">
+    <span style="font-size: 14px; color: #ccc;">SQL</span>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 8px;">
+    <img src="labview.png" alt="LabVIEW" style="height: 50px; width: 50px; object-fit: contain;">
+    <span style="font-size: 14px; color: #ccc;">LabVIEW</span>
+  </div>
+</div>
 
 <hr style="border: 1px solid #555; margin-top: 30px; margin-bottom: 30px;">
-<br>
 
 ## Professional Experience & Technical Projects
 * [Aerospace Engineering Intern — Bell Flight](bell-flight.md)
