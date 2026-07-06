@@ -2,7 +2,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/abhimaddula) | [Resume](resume.pdf)
 
-![Naga Sai Abhiraag Maddula](profile.jpg)
+![Naga Sai Abhiraag Maddula](profile.png)
 
 ## Summary
 Aerospace Engineer with a focus on high-performance flight vehicles, rocket propulsion, and jet engine cycle analysis. Experienced in navigating high-tempo engineering environments and executing complex mechanical designs from concept to testing.
