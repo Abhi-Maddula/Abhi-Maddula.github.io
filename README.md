@@ -15,5 +15,4 @@ Aerospace Engineer with a focus on high-performance flight vehicles, rocket prop
 ## Professional Experience & Technical Projects
 * [Aerospace Engineering Intern — Bell Flight](bell-flight.md)
 * [Mechanical Engineering Intern — GKN Aerospace](gkn-aerospace.md)
-* [Propulsion Lead — 6th Generation Fighter Design](6th-gen-fighter.md)
 * [Mechanical Design Lead — Hybrid Rocket Engine Feed Manifold](hybrid-rocket.md)
