@@ -61,7 +61,8 @@ Outside of industry, I have served as Engineering Mentorship Director for AIAA a
   </div>
 </div>
 
-<hr style="border: 1px solid #555; margin-top: 30px; margin-bottom: 30px;">
+<div style="clear: both;"></div>
+<br>
 
 ## Professional Experience & Technical Projects
 * [Aerospace Engineering Intern — Bell Flight](bell-flight.md)
