@@ -22,7 +22,7 @@ Outside of industry, I have served as Engineering Mentorship Director for AIAA a
 ### CAD & Mechanical Design
 <div style="display: flex; gap: 35px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 25px; margin-top: 15px;">
   <div style="display: flex; flex-direction: column; align-items: center; gap: 8px;">
-    <img src="solidworks.png" alt="SolidWorks" style="height: 50px; width: 75px; object-fit: contain;">
+    <img src="solidworks.png" alt="SolidWorks" style="height: 50px; width: 50px; object-fit: contain;">
     <span style="font-size: 14px; color: #ccc;">SolidWorks</span>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center; gap: 8px;">
