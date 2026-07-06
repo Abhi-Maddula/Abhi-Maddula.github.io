@@ -13,6 +13,7 @@ I also have hands-on rocket propulsion experience through UTA AeroMavs on the ex
 Outside of industry, I have served as Engineering Mentorship Director for AIAA at UTA, leading a 100+ student mentorship program focused on career development and internship placement.
 
 <div style="clear: both;"></div>
+<br>
 
 ## Skills
 * **Propulsion & Analysis:** Jet engine cycle analysis, Brayton cycles, nozzle sizing, liquid propellant behavior
