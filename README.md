@@ -2,7 +2,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/abhimaddula) | [Resume](resume.pdf)
 
-<img src="profile.png" alt="Naga Sai Abhiraag Maddula" align="left" style="width: 30%; max-width: 300px; min-width: 150px; margin-right: 25px; margin-bottom: 20px; border-radius: 8px;">
+<img src="profile.png" alt="Naga Sai Abhiraag Maddula" width="300" align="left" style="margin-right: 25px; margin-bottom: 20px; border-radius: 8px;">
 
 I recently graduated with a B.S. in Aerospace Engineering (Minor in Mechanical Engineering) with a focus on rocket propulsion systems. I’m passionate about rocket engines' complexity, power, and the challenge of understanding how tightly coupled physics, from fluid flow to combustion to hardware integration, come together in real systems.
 
@@ -13,8 +13,6 @@ I also have hands-on rocket propulsion experience through UTA AeroMavs on the ex
 Outside of industry, I have served as Engineering Mentorship Director for AIAA at UTA, leading a 100+ student mentorship program focused on career development and internship placement.
 
 <div style="clear: both;"></div>
-
-<hr style="border: 1px solid #555; margin-top: 30px; margin-bottom: 30px;">
 
 ## Skills
 * **Propulsion & Analysis:** Jet engine cycle analysis, Brayton cycles, nozzle sizing, liquid propellant behavior
