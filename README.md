@@ -12,8 +12,6 @@ I also have hands-on rocket propulsion experience through UTA AeroMavs on the ex
 
 Outside of industry, I have served as Engineering Mentorship Director for AIAA at UTA, leading a 100+ student mentorship program focused on career development and internship placement.
 
-I’m actively seeking opportunities in propulsion and fluid systems engineering where I can contribute to hardware development and test-driven design.
-
 <div style="clear: both;"></div>
 
 ## Skills
