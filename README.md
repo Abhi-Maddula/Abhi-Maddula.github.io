@@ -2,8 +2,6 @@
 
 [LinkedIn](https://www.linkedin.com/in/abhimaddula) | [Resume](resume.pdf)
 
-![Naga Sai Abhiraag Maddula](profile.png)
-
 <div style="display: flex; align-items: flex-start; gap: 25px; margin-top: 20px; margin-bottom: 20px;">
   <img src="profile.png" alt="Naga Sai Abhiraag Maddula" width="200" style="border-radius: 8px;">
   <div>
