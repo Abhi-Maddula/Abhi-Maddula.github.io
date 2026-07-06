@@ -14,7 +14,6 @@ Outside of industry, I have served as Engineering Mentorship Director for AIAA a
 
 <div style="clear: both;"></div>
 
-
 ## Skills
 * **Propulsion & Analysis:** Jet engine cycle analysis, Brayton cycles, nozzle sizing, liquid propellant behavior
 * **Hardware:** Mechanical design, manifold and injector integration, failure analysis
